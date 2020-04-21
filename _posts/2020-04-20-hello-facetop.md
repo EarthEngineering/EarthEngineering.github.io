@@ -7,7 +7,7 @@ categories: jekyll update
 
 ## Introduction
 
-We believe that with crisis comes opportunity. When the recent COVID19 pandemic and shelter-in-place instructions in our home state of California we decided to step back and brainstorm on ways that we could have a positive impact.
+We believe that with crisis comes opportunity. When the recent COVID19 pandemic and shelter-in-place instructions hit our home state of California we decided to step back and brainstorm on ways that we could have a positive impact.
 
 One of the most obvious changes in our lives it the need to wear masks when out in public in groups. This is truly a new behavior for most humans and represents an opportunity to help proper UX and privacy conventions emerge.
 
