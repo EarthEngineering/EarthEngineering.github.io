@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello Facetop!"
 date:   2020-04-20 22:19:49 -0700
-categories: jekyll update
+categories: facetop
 ---
 
 ## Introduction
@@ -16,3 +16,5 @@ One of the most obvious changes in our lives it the need to wear masks when out 
 In the same way that Desktop computing represented a serious leap forward compaired to mainframe and micro computing&mdash;Facetop computing represents as large of a paradigm shift as desktop computing and mobile.
 
 Wearing smart-masks presents the opportunity to engage with information, data and computation which is unique and personal in unique way. We belive that Facetop computing is a HUGE leap forward and we're honored to help the industry get a foothold.
+
+![Facetop logo](/assets/facetop_logo.jpg)
