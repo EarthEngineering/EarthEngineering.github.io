@@ -15,6 +15,6 @@ One of the most obvious changes in our lives is the need to wear masks when out 
 
 In the same way that Desktop computing represented a serious leap forward compaired to mainframe and micro computing&mdash;Facetop computing represents as large of a paradigm shift as desktop and mobile computing.
 
-Wearing smart-masks presents the opportunity to engage with information, data and computation which is uniquely personal. We belive that Facetop computing is a HUGE leap forward and we're honored to help the industry get a foothold.
+Wearing smart-masks presents the opportunity to engage with information, data and computation which is uniquely personal. We believe that Facetop computing is a HUGE leap forward and we hope that our work can have a positive impact on the lives of people around the world during the COVID-19 pandemic and beyond.
 
 ![Facetop logo](/assets/facetop_logo.jpg)
