@@ -9,7 +9,7 @@ categories: facetop
 
 According to [Security Today](https://securitytoday.com/articles/2020/01/13/the-iot-rundown-for-2020.aspx), during 2020 global spending on the Internet of Things (IoT) should reach $1.29 trillion. By 2021&mdash;the industrial IoT market size should reach $124 billion. By 2024&mdash;the global IoT healthcare market should reach $14 billion. By 2026&mdash;experts estimate that the IoT device market will reach $1.1 trillion.
 
-Facetop computing has been waiting for a catalyst and due to COVID-19 we belive smart-masks will be gateway that takes Facetop computing mainstream.
+It's clear that the Internet of Things is going to be massive and that it's here to stay. Facetop computing has been waiting for an IoT catalyst and due to COVID-19 we belive smart-masks will be gateway that takes Facetop computing mainstream.
 
 ## Components
 
