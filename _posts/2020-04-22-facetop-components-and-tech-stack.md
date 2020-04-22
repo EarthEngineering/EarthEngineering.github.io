@@ -55,8 +55,12 @@ As with [all of our software](https://github.com/EarthEngineering), [my.facetop.
 
 ### rest.facetop.xyz
 
-[rest.facetop.xyz](http://rest.facetop.xyz) is a suite of REST webservices for Facetop. This can also be found [on Github](https://github.com/EarthEngineering/rest.facetop.xyz)
+[rest.facetop.xyz](http://rest.facetop.xyz) is a suite of REST webservices for Facetop. It accepts requests in the form of HTTP and returns JSON. It also has an [MQTT](https://www.npmjs.com/package/mqtt) message broker for publishing messages to channels which have subscribers. This can also be found [on Github](https://github.com/EarthEngineering/rest.facetop.xyz)
 
 ### Facetop OS
 
 [on Github](https://github.com/EarthEngineering/facetop-os).
+
+## MQTT Demo
+
+The rest.facetop.xyz code base has a basic IoT demo. If you open two tabs and in one run `node app.js` and in the other run `node client.js` you'll see an MQTT broker, subscriber and message being published.
