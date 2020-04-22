@@ -25,9 +25,13 @@ At the heart of Facetop is the Raspberry Pi which comes fully equipped with a Br
 
 The Raspberry Pi is relatively bulky to be worn on a mask. After we finish prototyping we'll either move to a smaller Raspberry Pi model, such as the Zero, or we'll go with our own custom boards.
 
-![Rasp Pi Zero back](/assets/rasp-pi-zero-back.jpg)
+Front
 
 ![Rasp Pi Zero front](/assets/rasp-pi-zero-front.jpg)
+
+Back
+
+![Rasp Pi Zero back](/assets/rasp-pi-zero-back.jpg)
 
 [More Info](https://www.raspberrypi.org/blog/raspberry-pi-zero-w-joins-family/)
 
