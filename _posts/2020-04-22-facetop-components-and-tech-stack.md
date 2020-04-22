@@ -45,8 +45,18 @@ Facetop is a "voice first" UX. You can stream data to a phone or tablet over Blu
 
 ## Tech Stack
 
+![Tech Stack](/assets/facetop-tech-stack.jpg)
+
 Facetop has a very rich software ecosystem. my.facetop.xyz is the dashboard where users sign in to view usage stats as well as interact with their Facetop. 
+
+### my.facetop.xyz
 
 As with [all of our software](https://github.com/EarthEngineering), my.facetop.xyz is 100% open source under the [MIT license](https://opensource.org/licenses/MIT) and can be found [on Github](https://github.com/EarthEngineering/my.facetop.xyz).
 
-![Tech Stack](/assets/facetop-tech-stack.jpg)
+### rest.facetop.xyz
+
+This can also be found [on Github](https://github.com/EarthEngineering/rest.facetop.xyz)
+
+### Facetop OS
+
+[on Github](https://github.com/EarthEngineering/facetop-os)
