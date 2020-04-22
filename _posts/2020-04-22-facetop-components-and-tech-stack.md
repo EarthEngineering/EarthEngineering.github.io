@@ -15,13 +15,15 @@ It's clear that the Internet of Things is going to be massive and that it's here
 
 ### Raspberry Pi
 
-At the heart Facetop is the Raspberry Pi which comes fully equipped with a Broadcom system on a chip (SoC) with an integrated ARM-compatible CPU and on-chip GPU. Processor speed is 1.5 GHz with 4 GiB of RAM. HDMI, 3.5mm audio jack as well as WIFI and Bluetooth leave many ways to get data on/off the device.
+At the heart of Facetop is the Raspberry Pi which comes fully equipped with a Broadcom system on a chip (SoC) with an integrated ARM-compatible CPU and on-chip GPU. Processor speed is 1.5 GHz with 4 GB of RAM. HDMI, 3.5mm audio jack as well as WIFI and Bluetooth leave many ways to get data on/off the device.
 
 ![Rasp Pi](/assets/rasp-pi.jpg)
 
 [More Info](https://en.wikipedia.org/wiki/Raspberry_Pi)
 
 #### Raspberry Pi Zero
+
+The Raspberry Pi is relatively bulky to be worn on a mask. After we finish prototyping we'll either move to a smaller Raspberry Pi model, such as the Zero, or we'll go with our own custom boards.
 
 ![Rasp Pi Zero back](/assets/rasp-pi-zero-back.jpg)
 
@@ -30,6 +32,8 @@ At the heart Facetop is the Raspberry Pi which comes fully equipped with a Broad
 [More Info](https://www.raspberrypi.org/blog/raspberry-pi-zero-w-joins-family/)
 
 #### Raspberry Pi Camera
+
+Facetop is a "voice first" UX. You can stream data to a phone or tablet over Bluetooth but there is no screen which sits over your eye(s) like with smart glasses. You can however snap photos and video as well as stream video using the Raspberry Pi Camera.
 
 ![Rasp Pi Camera](/assets/rasp-pi-camera.jpg)
 
