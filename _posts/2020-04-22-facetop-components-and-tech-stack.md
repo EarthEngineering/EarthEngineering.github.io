@@ -59,7 +59,7 @@ As with [all of our software](https://github.com/EarthEngineering), [my.facetop.
 
 ### Facetop OS
 
-[on Github](https://github.com/EarthEngineering/facetop-os).
+Facetop OS is written with [nerves](https://www.nerves-project.org) which is an IoT framework written in Elixir. You can find it [on Github](https://github.com/EarthEngineering/facetop-os).
 
 ## MQTT Demo
 
