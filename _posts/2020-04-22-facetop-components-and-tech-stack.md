@@ -51,12 +51,12 @@ Facetop has a very rich software ecosystem. my.facetop.xyz is the dashboard wher
 
 ### my.facetop.xyz
 
-As with [all of our software](https://github.com/EarthEngineering), my.facetop.xyz is 100% open source under the [MIT license](https://opensource.org/licenses/MIT) and can be found [on Github](https://github.com/EarthEngineering/my.facetop.xyz).
+As with [all of our software](https://github.com/EarthEngineering), [my.facetop.xyz](http://my.facetop.xyz) is 100% open source under the [MIT license](https://opensource.org/licenses/MIT) and can be found [on Github](https://github.com/EarthEngineering/my.facetop.xyz).
 
 ### rest.facetop.xyz
 
-This can also be found [on Github](https://github.com/EarthEngineering/rest.facetop.xyz)
+[rest.facetop.xyz](http://rest.facetop.xyz) is a suite of REST webservices for Facetop. This can also be found [on Github](https://github.com/EarthEngineering/rest.facetop.xyz)
 
 ### Facetop OS
 
-[on Github](https://github.com/EarthEngineering/facetop-os)
+[on Github](https://github.com/EarthEngineering/facetop-os).
