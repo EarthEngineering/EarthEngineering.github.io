@@ -27,7 +27,7 @@ The Industrial Revolution on your Face
 * Wristtop
 * Facetop
 
-Google Glass didn't go mainstreaml. Due to COVID-19 there's a much greater opportunity for Facetop computing to go mainstream.
+Google Glass didn't go mainstream. Due to COVID-19 there's a much greater opportunity for Facetop computing to go mainstream.
 
 ![Intro Continued](/assets/intro_cont.jpg)
 
