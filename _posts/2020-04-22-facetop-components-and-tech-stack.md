@@ -9,7 +9,7 @@ categories: facetop
 
 According to [Security Today](https://securitytoday.com/articles/2020/01/13/the-iot-rundown-for-2020.aspx), during 2020 global spending on the Internet of Things (IoT) should reach $1.29 trillion. By 2021&mdash;the industrial IoT market size should reach $124 billion. By 2024&mdash;the global IoT healthcare market should reach $14 billion. By 2026&mdash;experts estimate that the IoT device market will reach $1.1 trillion.
 
-It's clear that the Internet of Things is going to be massive and that it's here to stay. Facetop computing has been waiting for an IoT catalyst and due to COVID-19 we belive smart-masks will be gateway that takes Facetop computing mainstream.
+It's clear that the Internet of Things is going to be massive and that it's here to stay. Facetop computing has been waiting for an IoT catalyst and due to COVID-19 we believe smart-masks will be gateway that takes Facetop computing mainstream.
 
 ## Components
 
@@ -44,5 +44,9 @@ Facetop is a "voice first" UX. You can stream data to a phone or tablet over Blu
 [More Info](https://www.raspberrypi.org/products/camera-module-v2/)
 
 ## Tech Stack
+
+Facetop has a very rich software ecosystem. my.facetop.xyz is the dashboard where users sign in to view usage stats as well as interact with their Facetop. 
+
+As with [all of our software](https://github.com/EarthEngineering), my.facetop.xyz is 100% open source under the [MIT license](https://opensource.org/licenses/MIT) and can be found [on Github](https://github.com/EarthEngineering/my.facetop.xyz).
 
 ![Tech Stack](/assets/facetop-tech-stack.jpg)
