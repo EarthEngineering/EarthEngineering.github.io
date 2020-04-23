@@ -9,7 +9,11 @@ categories: facetop
 
 According to [Security Today](https://securitytoday.com/articles/2020/01/13/the-iot-rundown-for-2020.aspx), during 2020 global spending on the Internet of Things (IoT) should reach $1.29 trillion. By 2021&mdash;the industrial IoT market size should reach $124 billion. By 2024&mdash;the global IoT healthcare market should reach $14 billion. By 2026&mdash;experts estimate that the IoT device market will reach $1.1 trillion.
 
-It's clear that the Internet of Things is going to be massive and that it's here to stay. Facetop computing has been waiting for an IoT catalyst and due to COVID-19 we believe smart-masks will be the gateway that takes Facetop computing mainstream.
+In 2018—there were 7 billion IoT devices in 2018. In 2019—the number of active IoT devices reached 26.66 billion. Every second—127 new IoT devices are connected to the web.
+
+During 2020 experts estimate the installation of 31 billion IoT devices. By 2021, 35 billion IoT devices will be installed worldwide. By 2025, more than 75 billion IoT devices will be connected to the Web.
+
+It's clear that the Internet of Things is here to stay and that it's going to be massive. Facetop computing has been waiting for an IoT catalyst and due to COVID-19 we believe smart-masks will be the gateway that takes Facetop computing mainstream.
 
 ## Components
 
