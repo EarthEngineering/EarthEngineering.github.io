@@ -51,15 +51,15 @@ Facetop is a "voice first" UX. You can stream data to a phone or tablet over Blu
 
 ![Tech Stack](/assets/facetop-tech-stack.jpg)
 
-Facetop has a very rich software ecosystem. my.facetop.xyz is the dashboard where users sign in to view usage stats as well as interact with their Facetop. 
+Facetop has a very rich software ecosystem. my.facetop.earth is the dashboard where users sign in to view usage stats as well as interact with their Facetop.
 
-### my.facetop.xyz
+### my.facetop.earth
 
-As with [all of our software](https://github.com/EarthEngineering), [my.facetop.xyz](http://my.facetop.xyz) is 100% open source under the [MIT license](https://opensource.org/licenses/MIT) and can be found [on Github](https://github.com/EarthEngineering/my.facetop.xyz).
+As with [all of our software](https://github.com/EarthEngineering), [my.facetop.earth](http://my.facetop.earth) is 100% open source under the [MIT license](https://opensource.org/licenses/MIT) and can be found [on Github](https://github.com/EarthEngineering/my.facetop.earth).
 
-### rest.facetop.xyz
+### rest.facetop.earth
 
-[rest.facetop.xyz](http://rest.facetop.xyz) is a suite of REST webservices for Facetop. It accepts requests in the form of HTTP and returns JSON. It also has an [MQTT](https://www.npmjs.com/package/mqtt) message broker for publishing messages to channels which have subscribers. This can also be found [on Github](https://github.com/EarthEngineering/rest.facetop.xyz)
+[rest.facetop.earth](http://rest.facetop.earth) is a suite of REST webservices for Facetop. It accepts requests in the form of HTTP and returns JSON. It also has an [MQTT](https://www.npmjs.com/package/mqtt) message broker for publishing messages to channels which have subscribers. This can also be found [on Github](https://github.com/EarthEngineering/rest.facetop.earth)
 
 ### Facetop OS
 
@@ -67,4 +67,4 @@ Facetop OS is written with [nerves](https://www.nerves-project.org) which is an 
 
 ## MQTT Demo
 
-The rest.facetop.xyz code base has a basic IoT demo. If you open two tabs and in one run `node app.js` and in the other run `node client.js` you'll see an MQTT broker, subscriber and message being published.
+The rest.facetop.earth code base has a basic IoT demo. If you open two tabs and in one run `node app.js` and in the other run `node client.js` you'll see an MQTT broker, subscriber and message being published.
