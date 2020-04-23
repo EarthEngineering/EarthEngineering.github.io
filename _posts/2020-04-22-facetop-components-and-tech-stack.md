@@ -49,7 +49,7 @@ Facetop is a "voice first" UX. You can stream data to a phone or tablet over Blu
 
 ## Tech Stack
 
-![Tech Stack](/assets/facetop-tech-stack.jpg)
+![Tech Stack](/assets/facetop-tech-stack.png)
 
 Facetop has a very rich software ecosystem. my.facetop.earth is the dashboard where users sign in to view usage stats as well as interact with their Facetop.
 
