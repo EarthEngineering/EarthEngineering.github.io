@@ -7,7 +7,7 @@ categories: facetop
 
 ## Introduction
 
-Foobar
+We've been prototyping masks to find something that is comfortable and practical and we're arrived at a good first design.
 
 ## Facetop
 
