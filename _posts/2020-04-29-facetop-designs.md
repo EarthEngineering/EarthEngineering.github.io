@@ -17,21 +17,21 @@ Our intention is to be selling them in our online store within a few weeks. We'l
 
 All of our designs are available in SVG and Adoble Illustrator format and are Open Source under the [MIT License](https://opensource.org/licenses/MIT).
 
-Large
+### Large
 
 ![Facetop mask large](/assets/facetop-mask-large.png)
 
 * [SVG format](https://github.com/EarthEngineering/facetop_designs/blob/master/svgs/Facetop-mask-large.svg)
 * [Adobe Illustrator format](https://github.com/EarthEngineering/facetop_designs/blob/master/ais/Facetop-mask-large.ai)
 
-Medium
+### Medium
 
 ![Facetop mask medium](/assets/facetop-mask-medium.png)
 
 * [SVG format](https://github.com/EarthEngineering/facetop_designs/blob/master/svgs/Facetop-mask-medium.svg)
 * [Adobe Illustrator format](https://github.com/EarthEngineering/facetop_designs/blob/master/ais/Facetop-mask-medium.ai)
 
-Small
+### Small
 
 ![Facetop mask small](/assets/facetop-mask-small.png)
 
