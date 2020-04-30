@@ -16,7 +16,7 @@ categories: facetop
 
 ## Introduction
 
-We believe that in crisis there is opportunity. We're a species of problem solvers and we have the wisdom needed to overcome nearly any crisis.
+Necessity is the mother of invention and we believe that in crisis there is opportunity. We're a species of problem solvers and we have the wisdom needed to overcome nearly any crisis.
 
 Part of our mission with Facetop is to take something which is being forced upon us during a time of fear and uncertainty, the mandatory wearing of a mask, and taking ownership of it and ultimately being empowered by it.
 
