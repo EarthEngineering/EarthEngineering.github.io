@@ -4,8 +4,15 @@ title:  "Why Facetop?"
 date:   2020-04-30 02:19:49 -0700
 categories: facetop
 ---
+<style>
+    .centered {
+        text-align: center;
+    }
+</style>
 
-![EARTH Engineering Logo](/assets/earth_engineering_logo.jpg)
+<div class="centered">
+  <img src="/assets/earth_engineering_logo.jpg">
+</div>
 
 ## Introduction
 
