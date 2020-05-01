@@ -38,9 +38,7 @@ In popular culture this is known as [Moore's Law](https://en.wikipedia.org/wiki/
   <img src="/assets/five_paradigms.jpg" alt="five paradigms">
 </div>
 
-The trend manifests in many different digital fields of study including computing paradigms, processor performance, average transistor price and microprocessor clock speed.
-
-RAM
+The trend manifests in many different digital fields of study including RAM, processor performance, average transistor price and microprocessor clock speed.
 
 <div class="centered chart">
   <img src="/assets/ram.jpg" alt="ram">
@@ -52,16 +50,11 @@ Also cost per transistor cycle, total bits shipped, magnetic data storage and ma
   <img src="/assets/magnetic_data_storage.jpg" alt="magnetic_data_storage">
 </div>
 
-Decrease in the size of Computers
+The pace of change is itself accelerating. It took us 3 to double the price performance of computing in 1900, 2 years in the middle of the century and we're now doubling it every one year.
 
 <div class="centered chart">
   <img src="/assets/decrease_in_size_of_computers.jpg" alt="decrease_in_size_of_computers">
 </div>
-
-As the cost and physical size of computing plummet and the capability skyrockets there are continuous opportunities to introduce computation into many different physical objects. This is known as the Internet of Things. Every single second 150 "smart" devices connect to the Internet of Things.
-
-
-The pace of change is itself accelerating. It took us 3 to double the price performance of computing in 1900, 2 years in the middle of the century and we're now doubling it every one year.
 
 ### Networking
 
@@ -94,6 +87,10 @@ Price Performance of Wireless Data Devices
 <div class="centered chart">
   <img src="/assets/price_performance_of_wireless_data_devices.jpg" alt="price_performance_of_wireless_data_devices">
 </div>
+
+## What does it all mean?
+
+That's a lot of data. What does it all mean? It means that computers are continuously getting smaller, faster and more inexpensive and the trend is itself accelerating. As the cost and physical size of computing plummet and the capability skyrockets there are continuous opportunities to introduce computation into many different physical objects. This is known as the Internet of Things. Every single second 150 "smart" devices connect to the Internet of Things.
 
 ## Point of View
 
