@@ -132,7 +132,7 @@ Necessity is the mother of invention and we believe that in crisis there is oppo
 
 Part of our mission with Facetop is to take something which is being forced upon us during a time of fear and uncertainty, the mandatory wearing of a mask, and taking ownership of it and ultimately being empowered by it.
 
-Masks are here to stay for at least a couple of years so we're choosing to be empowered instead of disempowered. We're choosing to view this an opportunity to have a positive impact on the lives of people during the COVID-19 pandemic as well as helping to take Facetop computing mainstream. We hope that you'll join us.
+Masks are here to stay for at least a couple of years so we're choosing to be empowered instead of disempowered. We're choosing to view this as an opportunity to have a positive impact on the lives of people during the COVID-19 pandemic as well as helping to take Facetop computing mainstream. We hope that you'll join us.
 
 ## Credits
 
