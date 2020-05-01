@@ -26,7 +26,7 @@ Since the very beginning of computing there has been the trend that processor sp
   <img src="/assets/decrease_in_transistor_size.jpg" alt="decrease_in_transistor_size">
 </div>
 
-This miniaturization is at the heart of our modern world where devices get better and more inexpensive continuously.
+This miniaturization is at the heart of our modern world where devices get better, smaller and more inexpensive continuously.
 
 <div class="centered chart">
   <img src="/assets/decrease_in_size_of_computers.jpg" alt="decrease_in_size_of_computers">
