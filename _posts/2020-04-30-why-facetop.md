@@ -64,3 +64,7 @@ Masks are here to stay for at least a couple of years so we're choosing to be em
 ## Sword of Damocles
 
 In legend the [sword of Damocles](https://en.wikipedia.org/wiki/Damocles)
+
+## Credits
+
+The wonderful charts are from Ray Kurzweil's [The Law of Accelerating Returns](https://www.kurzweilai.net/the-law-of-accelerating-returns). Kurzweil has been instrumental in affecting how I see the opportunity and peril facing humanity. 
