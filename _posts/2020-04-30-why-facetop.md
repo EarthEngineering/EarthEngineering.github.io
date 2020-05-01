@@ -112,7 +112,7 @@ The COVID-19 Pandemic has been a black swan event which very few people were abl
 
 Our intention with EARTH, from day 1, has been to leverage emerging technologies to have a positive impact on the Human Condition. EARTH sit's at the intersection of the Web, the Blockchain and the Internet of Things and we intend to create disruptive technology and license it as open source to get it in to the hands of as many people as possible and as quickly as possible.
 
-We view the mask as a great opportunity to have a postitive impact on people's lives during the COVID-19 Pandemic and to take Facetop computing mainstream.
+We view the mask as a great opportunity to have a positive impact on people's lives during the COVID-19 Pandemic and to take Facetop computing mainstream.
 
 ## Sword of Damocles
 
