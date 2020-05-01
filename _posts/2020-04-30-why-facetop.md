@@ -29,7 +29,7 @@ Since the very beginning of computing there has been the trend that processor sp
 This miniturization is at the heart of our modern world where devices get better and more inexpensive continuously.
 
 <div class="centered chart">
-  <img src="/assets/decrease_in_size_of_mechanical_devices.jpg" alt="decrease_in_size_of_mechanical_devices">
+  <img src="/assets/decrease_in_size_of_computers.jpg" alt="decrease_in_size_of_computers">
 </div>
 
 In popular culture this is known as [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) however we've witnessed it several times&mdash;Electro-Mechanical Calculators, Relay based computers which cracked the [German Enigma Code](https://en.wikipedia.org/wiki/Enigma_machine), Vacuum Tubes which [predicted the election of Eisenhower](https://www.npr.org/sections/alltechconsidered/2012/10/31/163951263/the-night-a-computer-predicted-the-next-president), [Discrete Transistors](https://en.wikipedia.org/wiki/Transistor) used in the first space flights and then Moore's Law where we shrink transistors on an [integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit).
@@ -53,7 +53,7 @@ Also cost per transistor cycle, total bits shipped, magnetic data storage and ma
 The pace of change is itself accelerating. It took us 3 years to double the price performance of computing in 1900, 2 years in the middle of the century and we're now doubling it every 1 year.
 
 <div class="centered chart">
-  <img src="/assets/decrease_in_size_of_computers.jpg" alt="decrease_in_size_of_computers">
+  <img src="/assets/decrease_in_size_of_mechanical_devices.jpg" alt="decrease_in_size_of_mechanical_devices">
 </div>
 
 ### Networking
