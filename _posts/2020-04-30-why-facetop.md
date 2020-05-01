@@ -26,7 +26,7 @@ Since the very beginning of computing there has been the trend that processor sp
   <img src="/assets/decrease_in_transistor_size.jpg" alt="decrease_in_transistor_size">
 </div>
 
-This miniturization is at the heart of our modern world where devices get better and cheaper continuously.
+This miniturization is at the heart of our modern world where devices get better and more inexpensive continuously.
 
 <div class="centered chart">
   <img src="/assets/decrease_in_size_of_mechanical_devices.jpg" alt="decrease_in_size_of_mechanical_devices">
@@ -38,6 +38,8 @@ In popular culture this is known as [Moore's Law](https://en.wikipedia.org/wiki/
   <img src="/assets/five_paradigms.jpg" alt="five paradigms">
 </div>
 
+RAM
+
 <div class="centered chart">
   <img src="/assets/ram.jpg" alt="ram">
 </div>
@@ -48,7 +50,7 @@ Also cost per transistor cycle, total bits shipped, magnetic data storage and ma
   <img src="/assets/magnetic_data_storage.jpg" alt="magnetic_data_storage">
 </div>
 
-As the cost and physical size of computing plummet and the capability skyrockets there are different opportunities to introduce computation into many different physical objects. This is known as the Internet of Things. Every single second 150 "smart" devices connect to the Internet of Things.
+As the cost and physical size of computing plummet and the capability skyrockets there are continuous opportunities to introduce computation into many different physical objects. This is known as the Internet of Things. Every single second 150 "smart" devices connect to the Internet of Things.
 
 <div class="centered chart">
   <img src="/assets/decrease_in_size_of_computers.jpg" alt="decrease_in_size_of_computers">
