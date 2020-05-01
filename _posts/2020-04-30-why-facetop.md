@@ -32,11 +32,13 @@ This miniturization is at the heart of our modern world where devices get better
   <img src="/assets/decrease_in_size_of_mechanical_devices.jpg" alt="decrease_in_size_of_mechanical_devices">
 </div>
 
-In popular culture this is known as [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) however the trend manifests in many different digital fields of study including computing paradigms, processor performance, average transistor price, microprocessor clock speed.
+In popular culture this is known as [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) however we've witnessed it several times&mdash;Electro-Mechanical Calculators, Relay based computers which cracked the [German Enigma Code](https://en.wikipedia.org/wiki/Enigma_machine), Vacuum Tubes which [predicted the election of Eisenhower](https://www.npr.org/sections/alltechconsidered/2012/10/31/163951263/the-night-a-computer-predicted-the-next-president), [Discrete Transistors](https://en.wikipedia.org/wiki/Transistor) used in the first space flights and then Moore's Law where we shrink transistors on an [integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit).
 
 <div class="centered chart">
   <img src="/assets/five_paradigms.jpg" alt="five paradigms">
 </div>
+
+The trend manifests in many different digital fields of study including computing paradigms, processor performance, average transistor price and microprocessor clock speed.
 
 RAM
 
@@ -50,13 +52,14 @@ Also cost per transistor cycle, total bits shipped, magnetic data storage and ma
   <img src="/assets/magnetic_data_storage.jpg" alt="magnetic_data_storage">
 </div>
 
-As the cost and physical size of computing plummet and the capability skyrockets there are continuous opportunities to introduce computation into many different physical objects. This is known as the Internet of Things. Every single second 150 "smart" devices connect to the Internet of Things.
+Decrease in the size of Computers
 
 <div class="centered chart">
   <img src="/assets/decrease_in_size_of_computers.jpg" alt="decrease_in_size_of_computers">
 </div>
 
-We've witnessed it many times&mdash;electro mechanical calculators, relay based computers which cracked the german enigma code, vacuum tubes which predicted the election of eisnehower, discreet transistors used in the first space flights and then Moore's Law where we shrink transistors on an integrated circuit.
+As the cost and physical size of computing plummet and the capability skyrockets there are continuous opportunities to introduce computation into many different physical objects. This is known as the Internet of Things. Every single second 150 "smart" devices connect to the Internet of Things.
+
 
 The pace of change is itself accelerating. It took us 3 to double the price performance of computing in 1900, 2 years in the middle of the century and we're now doubling it every one year.
 
