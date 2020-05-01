@@ -8,28 +8,56 @@ categories: facetop
     .centered {
         text-align: center;
     }
+
+    .chart img {
+        width: 75%;
+    }
 </style>
 
 <div class="centered">
-  <img src="/assets/earth_engineering_logo.jpg">
+  <img src="/assets/earth_engineering_logo.jpg" alt="earth engineering logo">
 </div>
 
 ## Introduction
 
 Since the very beginning of computing there has been the trend that processor speeds, or overall processing power for computers, doubles every two years. In popular culture this is known as [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) however the trend manifests in many different digital fields of study including computing paradigms, processor performance, average transistor price, microprocessor clock speed, cost per transistor cycle, total bits shipped, magnetic data storage and many, many other fields.
 
-![five paradigms](/assets/five_paradigms.jpg)
-![ram](/assets/ram.jpg)
-![magnetic data storage](/assets/magnetic_data_storage.jpg)
-![decrease in size of computers](assets/decrease_in_size_of_computers.jpg)
-![decrease in size of mechanical devices](assets/decrease_in_size_of_mechanical_devices.jpg)
-![decrease in transistor size](assets/decrease_in_transistor_size.jpg)
-![fastest possible data transmission_ peed](assets/fastest_possible_data_transmission_speed.jpg)
-![internet backbone bandwidth](assets/internet_backbone_bandwidth.jpg)
-![isp_cost performance](assets/isp_cost_performance.jpg)
-![magnetic data storage](assets/magnetic_data_storage.jpg)
-![modem_cost performance](assets/modem_cost_performance.jpg)
-![price performance of wireless data devices](assets/price_performance_of_wireless_data_devices.jpg)
+<div class="centered chart">
+  <img src="/assets/five_paradigms.jpg" alt="five paradigms">
+</div>
+<div class="centered chart">
+  <img src="/assets/magnetic_data_storage.jpg" alt="magnetic_data_storage">
+</div>
+<div class="centered chart">
+  <img src="/assets/decrease_in_size_of_computers.jpg" alt="decrease_in_size_of_computers">
+</div>
+<div class="centered chart">
+  <img src="/assets/ram.jpg" alt="ram">
+</div>
+<div class="centered chart">
+  <img src="/assets/decrease_in_size_of_mechanical_devices.jpg" alt="decrease_in_size_of_mechanical_devices">
+</div>
+<div class="centered chart">
+  <img src="/assets/decrease_in_transistor_size.jpg" alt="decrease_in_transistor_size">
+</div>
+<div class="centered chart">
+  <img src="/assets/fastest_possible_data_transmission_speed.jpg" alt="fastest_possible_data_transmission_speed">
+</div>
+<div class="centered chart">
+  <img src="/assets/internet_backbone_bandwidth.jpg" alt="internet_backbone_bandwidth">
+</div>
+<div class="centered chart">
+  <img src="/assets/isp_cost_performance.jpg" alt="isp_cost_performance">
+</div>
+<div class="centered chart">
+  <img src="/assets/magnetic_data_storage.jpg" alt="magnetic_data_storage">
+</div>
+<div class="centered chart">
+  <img src="/assets/modem_cost_performance.jpg" alt="modem_cost_performance">
+</div>
+<div class="centered chart">
+  <img src="/assets/price_performance_of_wireless_data_devices.jpg" alt="price_performance_of_wireless_data_devices">
+</div>
 
 As the cost and physical size of computing plummet and the capability skyrockets there are different opportunities to introduce computation into many different physical objects. This is known as the Internet of Things. Every single second 150 "smart" devices connect to the Internet of Things.
 
@@ -53,6 +81,10 @@ The COVID-19 Pandemic has been a black swan event which very few people were abl
 
 Our intention with EARTH, from day 1, has been to leverage emerging technologies to have a positive impact on the Human Condition. EARTH sit's at the intersection of the Web, the Blockchain and the Internet of Things and we intend to create disruptive technology and license it as open source to get in to the hands of as many people as possible and as quickly as possible.
 
+## Sword of Damocles
+
+In legend the [sword of Damocles](https://en.wikipedia.org/wiki/Damocles)
+
 ## Join us
 
 Necessity is the mother of invention and we believe that in crisis there is opportunity. We're a species of problem solvers and we have the wisdom needed to overcome nearly any crisis.
@@ -61,10 +93,6 @@ Part of our mission with Facetop is to take something which is being forced upon
 
 Masks are here to stay for at least a couple of years so we're choosing to be empowered instead of disempowered. We're choosing to view this an opportunity to have a positive impact on the lives of people during the COVID-19 pandemic as well as helping to take Facetop computing mainstream. I hope that you'll join me.
 
-## Sword of Damocles
-
-In legend the [sword of Damocles](https://en.wikipedia.org/wiki/Damocles)
-
 ## Credits
 
-The wonderful charts are from Ray Kurzweil's [The Law of Accelerating Returns](https://www.kurzweilai.net/the-law-of-accelerating-returns). Kurzweil has been instrumental in affecting how I see the opportunity and peril facing humanity. 
+The wonderful charts are from Ray Kurzweil's [The Law of Accelerating Returns](https://www.kurzweilai.net/the-law-of-accelerating-returns). Kurzweil has been instrumental in affecting how I see the opportunity and peril facing humanity.
