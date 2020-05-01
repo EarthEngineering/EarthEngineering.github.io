@@ -50,7 +50,7 @@ Also cost per transistor cycle, total bits shipped, magnetic data storage and ma
   <img src="/assets/magnetic_data_storage.jpg" alt="magnetic_data_storage">
 </div>
 
-The pace of change is itself accelerating. It took us 3 to double the price performance of computing in 1900, 2 years in the middle of the century and we're now doubling it every one year.
+The pace of change is itself accelerating. It took us 3 years to double the price performance of computing in 1900, 2 years in the middle of the century and we're now doubling it every 1 year.
 
 <div class="centered chart">
   <img src="/assets/decrease_in_size_of_computers.jpg" alt="decrease_in_size_of_computers">
