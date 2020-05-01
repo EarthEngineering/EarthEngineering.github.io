@@ -98,13 +98,15 @@ We define a Facetop Computer as a computer designed to be worn somewhere on your
 
 Facetop computing has been long overdue for a catalyst. Google Glass and subsequent "smart-glasses" haven't captured the public imagination. Mandatory masks worldwide represent an enormous opportunity for Facetop computing to go mainstream and it will usher in as large of a paradigm shift as Desktop and Mobile computing.
 
+![Google Glass](/assets/google_glass.jpg)
+
 Conventions and frameworks to protect privacy and provide developers the tools needed to create engaging and meaningful experiences will need to be developed. Facetop computing is a greenfield opportunity where everything is fresh and needs to be created in a way which best serves the new medium.
 
 Instead of viewing the mask as a symbol of us losing our voices we view the mask as something which protects us, can be fashionable and connects us to the Internet of Things. Instead of masks representing us losing our identity, they can instead represent us embracing our pseudonymity.
 
 ## Black Swan
 
-![Black swan](/assets/black-swan.jpg)
+![Black swan](/assets/black_swan.jpg)
 
 The COVID-19 Pandemic has been a black swan event which very few people were able to see coming. For the ones who did see it coming the rest of the world didn't take them seriously. The impact of this pandemic is unlike anything in modern history. It doesn't feel correct to compare it to a war or a terrorist attack but it's clear that it has already had a serious impact on the lives of people all over EARTH.
 
