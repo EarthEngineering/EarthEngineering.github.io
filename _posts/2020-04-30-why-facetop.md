@@ -20,13 +20,75 @@ categories: facetop
 
 ## Introduction
 
-Since the very beginning of computing there has been the trend that processor speeds, or overall processing power for computers, doubles every two years. In popular culture this is known as [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) however the trend manifests in many different digital fields of study including computing paradigms, processor performance, average transistor price, microprocessor clock speed, cost per transistor cycle, total bits shipped, magnetic data storage and many, many other fields.
+Since the very beginning of computing there has been the trend that processor speeds, or overall processing power for computers, doubles every two years. 
+
+<div class="centered chart">
+  <img src="/assets/decrease_in_transistor_size.jpg" alt="decrease_in_transistor_size">
+</div>
+
+This miniturization is at the heart of our modern world where devices get better and cheaper continuously.
+
+<div class="centered chart">
+  <img src="/assets/decrease_in_size_of_mechanical_devices.jpg" alt="decrease_in_size_of_mechanical_devices">
+</div>
+
+In popular culture this is known as [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) however the trend manifests in many different digital fields of study including computing paradigms, processor performance, average transistor price, microprocessor clock speed.
+
+<div class="centered chart">
+  <img src="/assets/five_paradigms.jpg" alt="five paradigms">
+</div>
+
+<div class="centered chart">
+  <img src="/assets/ram.jpg" alt="ram">
+</div>
+
+Also cost per transistor cycle, total bits shipped, magnetic data storage and many, many other fields.
+
+<div class="centered chart">
+  <img src="/assets/magnetic_data_storage.jpg" alt="magnetic_data_storage">
+</div>
 
 As the cost and physical size of computing plummet and the capability skyrockets there are different opportunities to introduce computation into many different physical objects. This is known as the Internet of Things. Every single second 150 "smart" devices connect to the Internet of Things.
+
+<div class="centered chart">
+  <img src="/assets/decrease_in_size_of_computers.jpg" alt="decrease_in_size_of_computers">
+</div>
 
 We've witnessed it many times&mdash;electro mechanical calculators, relay based computers which cracked the german enigma code, vacuum tubes which predicted the election of eisnehower, discreet transistors used in the first space flights and then Moore's Law where we shrink transistors on an integrated circuit.
 
 The pace of change is itself accelerating. It took us 3 to double the price performance of computing in 1900, 2 years in the middle of the century and we're now doubling it every one year.
+
+### Networking
+
+Not only is hardware getting smaller, faster and more inexpensive but networking is also growing exponentially. The fastest possible data transmission speed. 
+
+<div class="centered chart">
+  <img src="/assets/fastest_possible_data_transmission_speed.jpg" alt="fastest_possible_data_transmission_speed">
+</div>
+
+Iinternet backbone bandwidth. 
+
+<div class="centered chart">
+  <img src="/assets/internet_backbone_bandwidth.jpg" alt="internet_backbone_bandwidth">
+</div>
+
+ISP Cost Performance
+
+<div class="centered chart">
+  <img src="/assets/isp_cost_performance.jpg" alt="isp_cost_performance">
+</div>
+
+Modem Cost Performance
+
+<div class="centered chart">
+  <img src="/assets/modem_cost_performance.jpg" alt="modem_cost_performance">
+</div>
+
+Price Performance of Wireless Data Devices
+
+<div class="centered chart">
+  <img src="/assets/price_performance_of_wireless_data_devices.jpg" alt="price_performance_of_wireless_data_devices">
+</div>
 
 ## Point of View
 
@@ -52,9 +114,9 @@ Our intention with EARTH, from day 1, has been to leverage emerging technologies
 
 In legend of the [sword of Damocles](https://en.wikipedia.org/wiki/Damocles) there is a man named Damocles sitting before the King Dionysus. Damocles is telling the King how amazing it must be to be the King, with all his wealth and power. Dionysus offers to let Damocles be King-for-a-day so that he too can feel what it's like to be King.
 
-Damocles jumps at the offer but just as he is taking his place at the throne Dionysus arranges a huge sword above the throne. The sword was held by a single horse hair.
+Damocles jumps at the offer but just as he is taking his place at the throne Dionysus arranges a huge sword above the throne. The sword was held by a single horse hair. The purpose was immediately clear to Damocles&mdash;the King may have much fortune, but they are in constant anxiety and fear about who might try and overtake them.
 
-The purpose was immediately clear to Damocles&mdash;the King may have much fortune, but they are in constant anxiety and fear about who might try and overtake them.
+Technology technology is in it's own way a Sword of Damocles situation. We are offered nearly abilities which our ancestors would see as Godlike but in return we sacrifice our personal liberties and privacy. Does it have to be that way? Can we architect systems which empower human liberty? Can we put people in control of their data and offer them privacy? As long as we have strong encryption, which is under attack by govts around the world.
 
 ## Join us
 
@@ -65,43 +127,6 @@ Part of our mission with Facetop is to take something which is being forced upon
 Masks are here to stay for at least a couple of years so we're choosing to be empowered instead of disempowered. We're choosing to view this an opportunity to have a positive impact on the lives of people during the COVID-19 pandemic as well as helping to take Facetop computing mainstream. I hope that you'll join me.
 
 ## Data
-
-<div class="centered chart">
-  <img src="/assets/five_paradigms.jpg" alt="five paradigms">
-</div>
-<div class="centered chart">
-  <img src="/assets/magnetic_data_storage.jpg" alt="magnetic_data_storage">
-</div>
-<div class="centered chart">
-  <img src="/assets/decrease_in_size_of_computers.jpg" alt="decrease_in_size_of_computers">
-</div>
-<div class="centered chart">
-  <img src="/assets/ram.jpg" alt="ram">
-</div>
-<div class="centered chart">
-  <img src="/assets/decrease_in_size_of_mechanical_devices.jpg" alt="decrease_in_size_of_mechanical_devices">
-</div>
-<div class="centered chart">
-  <img src="/assets/decrease_in_transistor_size.jpg" alt="decrease_in_transistor_size">
-</div>
-<div class="centered chart">
-  <img src="/assets/fastest_possible_data_transmission_speed.jpg" alt="fastest_possible_data_transmission_speed">
-</div>
-<div class="centered chart">
-  <img src="/assets/internet_backbone_bandwidth.jpg" alt="internet_backbone_bandwidth">
-</div>
-<div class="centered chart">
-  <img src="/assets/isp_cost_performance.jpg" alt="isp_cost_performance">
-</div>
-<div class="centered chart">
-  <img src="/assets/magnetic_data_storage.jpg" alt="magnetic_data_storage">
-</div>
-<div class="centered chart">
-  <img src="/assets/modem_cost_performance.jpg" alt="modem_cost_performance">
-</div>
-<div class="centered chart">
-  <img src="/assets/price_performance_of_wireless_data_devices.jpg" alt="price_performance_of_wireless_data_devices">
-</div>
 
 ## Credits
 
