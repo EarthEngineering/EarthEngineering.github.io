@@ -26,7 +26,7 @@ Since the very beginning of computing there has been the trend that processor sp
   <img src="/assets/decrease_in_transistor_size.jpg" alt="decrease_in_transistor_size">
 </div>
 
-This miniturization is at the heart of our modern world where devices get better and more inexpensive continuously.
+This miniaturization is at the heart of our modern world where devices get better and more inexpensive continuously.
 
 <div class="centered chart">
   <img src="/assets/decrease_in_size_of_computers.jpg" alt="decrease_in_size_of_computers">
@@ -64,7 +64,7 @@ Not only is hardware getting smaller, faster and more inexpensive but networking
   <img src="/assets/fastest_possible_data_transmission_speed.jpg" alt="fastest_possible_data_transmission_speed">
 </div>
 
-Iinternet backbone bandwidth. 
+Internet backbone bandwidth.
 
 <div class="centered chart">
   <img src="/assets/internet_backbone_bandwidth.jpg" alt="internet_backbone_bandwidth">
@@ -110,7 +110,7 @@ Instead of viewing the mask as a symbol of us losing our voices we view the mask
 
 The COVID-19 Pandemic has been a black swan event which very few people were able to see coming. For the ones who did see it coming the rest of the world didn't take them seriously. The impact of this pandemic is unlike anything in modern history. It doesn't feel correct to compare it to a war or a terrorist attack but it's clear that it has already had a serious impact on the lives of people all over EARTH.
 
-Our intention with EARTH, from day 1, has been to leverage emerging technologies to have a positive impact on the Human Condition. EARTH sit's at the intersection of the Web, the Blockchain and the Internet of Things and we intend to create disruptive technology and license it as open source to get it in to the hands of as many people as possible and as quickly as possible.
+Our intention with EARTH, from day 1, has been to leverage emerging technologies to have a positive impact on the Human Condition. EARTH sits at the intersection of the Web, the Blockchain and the Internet of Things and we intend to create disruptive technology and license it as open source to get it in to the hands of as many people as possible and as quickly as possible.
 
 We view the mask as a great opportunity to have a positive impact on people's lives during the COVID-19 Pandemic and to take Facetop computing mainstream.
 
