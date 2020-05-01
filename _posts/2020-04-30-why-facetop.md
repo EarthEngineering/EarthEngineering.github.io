@@ -98,7 +98,7 @@ We define a Facetop Computer as a computer designed to be worn somewhere on your
 
 Facetop computing has been long overdue for a catalyst. Google Glass and subsequent "smart-glasses" haven't captured the public imagination. Mandatory masks worldwide represent an enormous opportunity for Facetop computing to go mainstream and it will usher in as large of a paradigm shift as Desktop and Mobile computing.
 
-![Google Glass](/assets/google_glass.jpg)
+![Google Glass](/assets/glass.jpg)
 
 Conventions and frameworks to protect privacy and provide developers the tools needed to create engaging and meaningful experiences will need to be developed. Facetop computing is a greenfield opportunity where everything is fresh and needs to be created in a way which best serves the new medium.
 
