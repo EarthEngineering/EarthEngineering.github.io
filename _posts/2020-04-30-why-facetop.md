@@ -58,7 +58,7 @@ The pace of change is itself accelerating. It took us 3 to double the price perf
 
 ### Networking
 
-Not only is hardware getting smaller, faster and more inexpensive but networking is also growing exponentially. The fastest possible data transmission speed. 
+Not only is hardware getting smaller, faster and more inexpensive but networking is also growing exponentially. Here's the fastest possible data transmission speed. 
 
 <div class="centered chart">
   <img src="/assets/fastest_possible_data_transmission_speed.jpg" alt="fastest_possible_data_transmission_speed">
@@ -90,11 +90,11 @@ Price Performance of Wireless Data Devices
 
 ## What does it all mean?
 
-That's a lot of data. What does it all mean? It means that computers are continuously getting smaller, faster and more inexpensive and the trend is itself accelerating. As the cost and physical size of computing plummet and the capability skyrockets there are continuous opportunities to introduce computation into many different physical objects. This is known as the Internet of Things. Every single second 150 "smart" devices connect to the Internet of Things.
+That's a lot of data. What does it all mean? It means that computers are continuously getting smaller, faster and more inexpensive and the trend is itself accelerating. As the cost and physical size of computing plummet and the capability skyrockets there are continuous opportunities to introduce computation into many different physical objects. This is known as the [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things). Every single second 150 "smart" devices connect to the Internet of Things.
 
-## Point of View
+## Definition of Facetop Computing
 
-Facetop computing has been long overdue for a catalyst. Google Glass and subsequent "smart-glasses" haven't captured the public imagination. Mandatory masks worldwide represent an enormous opportunity for Facetop computing to go mainstream and it will usher in as large of a paradigm shift as Desktop and Mobile computing. 
+We define a Facetop Computer as a computer designed to be worn somewhere on your face or head. Included in this category are glasses, headsets and masks. Facetop computing has been long overdue for a catalyst. Google Glass and subsequent "smart-glasses" haven't captured the public imagination. Mandatory masks worldwide represent an enormous opportunity for Facetop computing to go mainstream and it will usher in as large of a paradigm shift as Desktop and Mobile computing.
 
 Conventions and frameworks to protect privacy and provide developers the tools needed to create engaging and meaningful experiences will need to be developed. Facetop computing is a greenfield opportunity where everything is fresh and needs to be created in a way which best serves the new medium.
 
