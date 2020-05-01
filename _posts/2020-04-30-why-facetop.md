@@ -90,7 +90,7 @@ Price Performance of Wireless Data Devices
 
 ## What does it all mean?
 
-That's a lot of data. What does it all mean? It means that computers are continuously getting smaller, faster and more inexpensive and the trend is itself accelerating. As the cost and physical size of computing plummet and the capability skyrockets there are continuous opportunities to introduce computation into many different physical objects. This is known as the [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT). Every single second 150 "smart" devices connect to the IoT.
+That's a lot of data. What does it all mean? It means that computers are continuously getting smaller, faster and more inexpensive and the trend is itself accelerating. As the cost and physical size of computing plummets and the capability skyrockets there are continuous opportunities to introduce computation into many different physical objects. This is known as the [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT). Every single second 150 "smart" devices connect to the IoT.
 
 ## Definition of Facetop Computing
 
