@@ -5,10 +5,6 @@ date:   2020-05-02 01:19:49 -0700
 categories: facetop
 ---
 
-## Introduction
-
-We've been prototyping masks to find something that is comfortable and practical and we're arrived at a good first design.
-
 ## Facetop
 
 Example 1
